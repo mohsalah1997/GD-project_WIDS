@@ -1,0 +1,88 @@
+﻿
+@{
+    ViewData["Title"] = "AddAp";
+}
+
+<form id="searchForm" class="m-2">
+    <input type="text" id="search" />
+    <input type="submit" name="Search!" class="btn btn-sm btn-secondary mt-1 m-2" value="search" />
+</form>
+<div id="resultContainer">
+</div>
+<script type="text/javascript">
+    $("#searchForm").submit(function (e) {
+        e.preventDefault();
+        var results = $("#divData");
+        var text = $("#search").val();
+        results.empty();
+        $.get("https://localhost:44361/", function (data) {
+            results.append($(data).find("div:contains(" + text + ")"));
+        });
+    });
+</script>
+
+<div id="divData" class="well hidden">
+    <table class="table table-bordered" id="tblData">
+        <thead class="bg-dark">
+            <tr class="success">
+                <td class="text-white text-center">ssid</td>
+                <td class="text-white text-center">mac</td>
+                <td class="text-white text-center">power</td>
+                <td class="text-white text-center">channel</td>
+                <td class="text-white text-center">Cipher</td>
+                <td class="text-white text-center">encryption</td>
+                <td class="text-white text-center">authentication</td>
+                <td class="text-white text-center">Add AP</td>
+
+            </tr>
+        </thead>
+        <tbody id="tblBody"></tbody>
+    </table>
+</div>
+
+<script src="~/js/jquery-3.3.1.min.js"></script>
+<script type="text/javascript">
+
+    $(document).ready(function () {
+        $.ajax({
+            url: '/api/Ssid',
+            method: 'GET',
+            success: function (data) {
+                $('#divData').removeClass('hidden');
+                $('#tblBody').empty();
+                $.each(data, function (index, value) {
+                    var row = $('<tr><td>'
+                        + value.ssid + '</td><td>'
+                        + value.mac + '</td><td>'
+                        + value.min_pwr + '</td><td>'
+                        + value.channel + '</td><td>'
+                        + value.cipher + '</td><td>'
+                        + value.enc + '</td><td>'
+                        + value.auth + '</td>'
+                        + '<td><a class="btn btn-sm btn-secondary mt-1" onclick="yy(' +value.id+ ')" href="javascript:;">Add</a></td></tr>');
+
+
+
+                    $('#tblData').append(row);
+                });
+            }
+        });
+
+    });
+    function yy(id) {
+        console.log(id)
+        $.ajax({
+            type: "POST",
+            url: 'https://localhost:44361/api/Ssid/Whitelist/Add?id='+id,
+            //data: { id: id },
+            
+            success: function (response) {
+                console.log(response);
+                alert("Successfully added"); 
+            }
+        });
+
+    }
+
+</script>
+

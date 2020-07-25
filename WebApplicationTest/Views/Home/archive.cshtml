@@ -1,0 +1,56 @@
+﻿
+@{
+    ViewData["Title"] = "Archive Table";
+}
+<form id="searchForm" class="m-2">
+    <input type="text" id="search" />
+    <input type="submit" name="Search!" class="btn btn-sm btn-secondary mt-1 m-2" value="search" />
+</form>
+<div id="resultContainer">
+</div>
+<script type="text/javascript">
+    $("#searchForm").submit(function (e) {
+        e.preventDefault();
+        var results = $("#divData");
+        var text = $("#search").val();
+        results.empty();
+        $.get("https://localhost:44361/", function (data) {
+            results.append($(data).find("div:contains(" + text + ")"));
+        });
+    });
+</script>
+
+<div id="divData" class="well hidden">
+    <table class="table table-bordered" id="tblData">
+        <thead class="bg-dark">
+            <tr class="success">
+                <td class="text-white text-center" style="width:15%">Title</td>
+                <td class="text-white text-center">Timestamp</td>
+                <td class="text-white text-center">Description</td>
+            </tr>
+        </thead>
+        <tbody id="tblBody"></tbody>
+    </table>
+</div>
+
+<script src="~/js/jquery-3.3.1.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $.ajax({
+            url: '/api/archive',
+            method: 'GET',
+            success: function (data) {
+                $('#divData').removeClass('hidden');
+                $('#tblBody').empty();
+                $.each(data, function (index, value) {
+                    var row = $('<tr><td>'
+                        + value.title + '</td><td>'
+                        + value.timestamp + '</td><td>'
+                        + value.description + '</td></tr>');
+                    $('#tblData').append(row);
+                });
+            }
+        });
+    });
+</script>
+

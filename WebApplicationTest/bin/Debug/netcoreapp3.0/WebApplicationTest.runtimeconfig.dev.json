@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Flash Tech\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Flash Tech\\.nuget\\packages"
+    ]
+  }
+}

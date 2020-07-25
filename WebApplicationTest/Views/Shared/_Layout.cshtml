@@ -1,0 +1,97 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - WebApplicationTest</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="icon" href="~/Images/favicon.ico">
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light border-bottom box-shadow mb-3" style="background:#2a3841">
+            <div class="container">
+                <a class="navbar-brand text-white " asp-area="" asp-controller="Home" asp-action="Index">WIDS</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                    <ul class="navbar-nav flex-grow-1">
+
+                        <li class="nav-item">
+                            <a class="nav-link text-light text-white-50" asp-area="" asp-controller="Home" asp-action="Notification"><i style="font-size:15px"><img src="~/Images/alert.png" /></i> Notification</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-light text-white-50" asp-area="" asp-controller="Home" asp-action="AboutUS"><i style="font-size:15px"><img src="~/Images/about (2).png" /></i> About Us</a>
+                        </li>
+                        <li>
+                            <div class="dropdown">
+                                <a class="btn btn-sm btn-secondary dropdown-toggle mt-1 m-1" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    <i style="font-size:15px"><img src="~/Images/attacks.png" /></i> Attacks
+                                </a>
+
+                                <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+
+                                    <a target="_blank" class="dropdown-item" href="https://us.norton.com/internetsecurity-emerging-threats-dos-attacks-explained.html"><i style="font-size:15px"><img src="~/Images/dos.png" /></i> DOS Attacks</a>
+                                    <a target="_blank" class="dropdown-item" href="https://www.rapid7.com/fundamentals/man-in-the-middle-attacks/"><i style="font-size:15px"><img src="~/Images/man.png" /></i> MITM Attacks</a>
+                                    <a target="_blank" class="dropdown-item" href="https://www.comparitech.com/blog/vpn-privacy/arp-poisoning-spoofing-detect-prevent/"><i style="font-size:15px"><img src="~/Images/mac.png" /></i> Mac Spoofing and Arp Poisoning</a>
+                                    <a target="_blank" class="dropdown-item" href="https://www.darkreading.com/attacks-breaches/understanding-evil-twin-ap-attacks-and-how-to-prevent-them-/a/d-id/1333240"><i style="font-size:15px"><img src="~/Images/evil.png" /></i> Evil twin</a>
+                                    <a target="_blank" class="dropdown-item" href="https://www.juniper.net/documentation/en_US/junos-space-apps/network-director3.1/topics/concept/wireless-rogue-ap.html"><i style="font-size:15px"><img src="~/Images/evil.png" /></i>Rogue Access point</a>
+                                    <a target="_blank" class="dropdown-item" href="https://www.excitingip.com/1125/honeypot-man-in-the-middle-attack-wireless-intrusion-prevention/"><i style="font-size:15px"><img src="~/Images/hon.png" /></i> Honeypot Access Point</a>
+                                    <a target="_blank" class="dropdown-item" href="https://www.guru99.com/how-to-hack-wireless-networks.html"><i style="font-size:15px"><img src="~/Images/crack.png" /></i> KRACK Attacks</a>
+                                </div>
+                        </li>
+
+
+
+
+                        <li>
+
+                            <div class="dropdown">
+                                <a class="btn btn-sm btn-secondary dropdown-toggle mt-1" href="#" role="button" id="dropdownControl" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    <i style="font-size:15px"><img src="~/Images/control.png" /></i> Control
+                                </a>
+
+                                <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+
+                                    <a class="dropdown-item" asp-area="" asp-controller="Home" asp-action="AddUser"><i style="font-size:15px"><img src="~/Images/user.png" /></i> Add user</a>
+                                    <a class="dropdown-item" asp-area="" asp-controller="Home" asp-action="archive"><i style="font-size:15px"><img src="~/Images/archive.png" /></i> Archive</a>
+                                    <a class="dropdown-item" asp-area="" asp-controller="Home" asp-action="AddAp"><i style="font-size:15px"><img src="~/Images/router.png" /></i> Add access point</a>
+                                    <a class="dropdown-item" asp-area="" asp-controller="Home" asp-action="users"><i style="font-size:15px"><img src="~/Images/users.png" /></i>Users</a>
+                                </div>
+
+                            </div>
+                        </li>
+
+                    </ul>
+
+                    <!--action="~/Login/Logout"-->
+
+                </div>
+                <form method="post" action="~/Login/Logout">
+                    <button style="color:white" class="btn btn-sm btn-danger mt-1"><i style="font-size:15px"><img src="~/Images/logout.png" /></i> Logout</button>
+                </form>
+            </div>
+            
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

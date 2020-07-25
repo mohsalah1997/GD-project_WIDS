@@ -1,0 +1,396 @@
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\WebApplicationTest.exe
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\staticwebassets\WebApplicationTest.StaticWebAssets.Manifest.cache
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\staticwebassets\WebApplicationTest.StaticWebAssets.xml
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.AssemblyInfo.cs
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.TagHelpers.input.cache
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.TagHelpers.output.cache
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.RazorCoreGenerate.cache
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.RazorTargetAssemblyInfo.cs
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.csproj.CopyComplete
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\WebApplicationTest.deps.json
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\WebApplicationTest.runtimeconfig.json
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\WebApplicationTest.runtimeconfig.dev.json
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\WebApplicationTest.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\WebApplicationTest.pdb
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\WebApplicationTest.Views.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\WebApplicationTest.Views.pdb
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.Views.pdb
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.pdb
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\MySqlConnector.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Pomelo.JsonObject.dll
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\WebApplicationTest.exe
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\WebApplicationTest.deps.json
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\WebApplicationTest.runtimeconfig.json
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\WebApplicationTest.runtimeconfig.dev.json
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\WebApplicationTest.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\WebApplicationTest.pdb
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\WebApplicationTest.Views.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\WebApplicationTest.Views.pdb
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\MySqlConnector.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Pomelo.JsonObject.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.csprojAssemblyReference.cache
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\staticwebassets\WebApplicationTest.StaticWebAssets.Manifest.cache
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\staticwebassets\WebApplicationTest.StaticWebAssets.xml
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.RazorAssemblyInfo.cache
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.RazorAssemblyInfo.cs
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.AssemblyInfoInputs.cache
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.AssemblyInfo.cs
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.TagHelpers.input.cache
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.TagHelpers.output.cache
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.RazorCoreGenerate.cache
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.RazorTargetAssemblyInfo.cache
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.RazorTargetAssemblyInfo.cs
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.Views.pdb
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.csproj.CopyComplete
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.dll
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.pdb
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\Razor\Views\Home\Notification.cshtml.g.cs
+C:\Users\Tamer\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\Razor\Views\Home\AboutUS.cshtml.g.cs
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\WebApplicationTest.exe
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\WebApplicationTest.deps.json
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\WebApplicationTest.runtimeconfig.json
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\WebApplicationTest.runtimeconfig.dev.json
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\WebApplicationTest.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\WebApplicationTest.pdb
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\WebApplicationTest.Views.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\WebApplicationTest.Views.pdb
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\MySqlConnector.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\Pomelo.JsonObject.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.csprojAssemblyReference.cache
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\staticwebassets\WebApplicationTest.StaticWebAssets.Manifest.cache
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\staticwebassets\WebApplicationTest.StaticWebAssets.xml
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.RazorAssemblyInfo.cache
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.RazorAssemblyInfo.cs
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.AssemblyInfoInputs.cache
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.AssemblyInfo.cs
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.TagHelpers.input.cache
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.TagHelpers.output.cache
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.RazorCoreGenerate.cache
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\Razor\Views\Home\AboutUS.cshtml.g.cs
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\Razor\Views\Home\Notification.cshtml.g.cs
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.RazorTargetAssemblyInfo.cache
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.RazorTargetAssemblyInfo.cs
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.Views.pdb
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.csproj.CopyComplete
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.dll
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.pdb
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\WebApplicationTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\Razor\Views\Home\AddUser.cshtml.g.cs
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\Razor\Views\Home\archive.cshtml.g.cs
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\Razor\Views\Home\AddAp.cshtml.g.cs
+C:\Users\Flash Tech\Desktop\WebApplicationTest\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp3.0\Razor\Views\Home\users.cshtml.g.cs
